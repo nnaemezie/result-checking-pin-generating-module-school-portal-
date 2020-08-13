@@ -1,0 +1,6 @@
+fix card table :
+                make id auto increment
+                include session column
+
+employee_data table :
+                      add super_admin column and Value 'YES'
